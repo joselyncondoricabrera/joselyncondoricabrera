@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm Joselyn Condori !!!🙋🏻‍♀️
+### A Frotend Developer graduated from Laboratoria 👩🏻‍🎓<💛>
 
 <!--
 **joselyncondoricabrera/joselyncondoricabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
