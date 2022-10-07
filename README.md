@@ -1,6 +1,15 @@
 ### Hi there 👋, I'm Joselyn Condori !!!🙋🏻‍♀️
 ### A Frotend Developer graduated from Laboratoria 👩🏻‍🎓<💛>
 
+```js
+const profileJoss = {
+ 🥰pronous:"She" || "Her",
+ 💻code:[Javascript, Html, Css],
+ ⚙ tools: [Node, React, Jest, Firebase],
+ 💗interests:[travel, cook, music, cats]
+```
+
+## Contact Me
 <!--
 **joselyncondoricabrera/joselyncondoricabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
