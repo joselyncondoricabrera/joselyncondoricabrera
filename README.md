@@ -1,5 +1,5 @@
 ### Hellow world 👋, I'm Joselyn Condori !!!🙋🏻‍♀️
-### A Frotend Developer graduated from Laboratoria 👩🏻‍🎓<💛>
+### A Frontend Developer graduated from Laboratoria 👩🏻‍🎓<💛>
 ![hola](https://thevalley.es/wp-content/uploads/2022/05/3.jpg)
 
 ```js
